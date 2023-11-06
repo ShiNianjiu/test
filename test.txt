@@ -1,0 +1,9 @@
+https://github.com
+ls （显示文件夹内包含的文件）
+git status （显示git仓库状态）
+git init （初始化一个git仓库）
+git add test.txt  （将文件加入git仓库）
+git commit -a -m "the first version"  （上传修改后的版本）
+please tell me who you are解决方法
+git config user.email "1851197181@qq.com"
+git config user.name "yzx"
